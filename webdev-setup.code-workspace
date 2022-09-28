@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"name": "webdev-setup"
+		},
+	],
+	"settings": {
+		"vite.autoStart": true,
+		"vite.port": 3030,
+		"vite.devCommand": "npm run dev",
+		"vite.host": "127.0.0.1",
+		"vite.showTerminal": true
+	}
+}
